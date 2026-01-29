@@ -1,0 +1,38 @@
+{
+    "header": {
+        "title": "Desarrollador Front-End | Tecnólogo en Producción Multimedia."
+    },
+    "intro": {
+        "title": "Resumen:",
+        "summary": "Especialista en la creación de sitios web interactivos con un enfoque en la optimización de diseños y tecnologías avanzadas."
+    },
+    "about-me": {
+        "title": "Sobre mí",
+        "tabTitle1": "Ubicación",
+        "tabText1": "Soacha / Bogotá",
+        "tabTitle2": "Nacionalidad",
+        "tabText2": "Colombiano",
+        "tabTitle3": "Capacidades",
+        "tabText3": "Excelente comunicación e Ingles B1",
+        "summary": "Me caracterizo por mi dinamismo, proactividad y un fuerte compromiso con el trabajo en equipo. Soy una persona versátil, capaz de simultanear tareas y tomar decisiones con solvencia."
+    },
+    "experience": {
+        "title": "Experiencia Profesional",
+        "summary": "He trabajado en diversos proyectos que abarcan desde el desarrollo de sitios web hasta aplicaciones interactivas, utilizando tecnologías modernas para garantizar una experiencia de usuario óptima.",
+        "tabTitle": "Desarrollador Front-End",
+        "list1": "Maquetación y desarrollo web front-end utilizando PHP, JavaScript, HTML y CSS.",
+        "list2": "Adaptación de diseños de Figma/PSD a código funcional.",
+        "list3": "Optimización de rendimiento y velocidad de carga.",
+        "list4": "Uso de preprocesadores como SASS y herramientas como Webpack/Gulp."
+    },
+    "projects": {
+        "title": "Proyectos",
+        "summary": "Aquí puedes ver algunos de los proyectos en los que he trabajado, demostrando mis habilidades en desarrollo web y diseño."
+    },
+    "footer": {
+        "title": "Contacta Conmigo"
+    },
+    "button": {
+        "linkedin": "LinkedIn"
+    }
+}

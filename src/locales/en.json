@@ -1,0 +1,38 @@
+{
+    "header": {
+        "title": "Front-End Developer | Multimedia Production Technologist."
+    },
+    "intro": {
+        "title": "Summary:",
+        "summary": "Specialist in building interactive websites with emphasis on optimized designs and modern technologies."
+    },
+    "about-me": {
+        "title": "About Me",
+        "tabTitle1": "Location",
+        "tabText1": "Soacha / Bogota",
+        "tabTitle2": "Nationality",
+        "tabText2": "Colombian",
+        "tabTitle3": "Skills",
+        "tabText3": "Excellent communication and B1 English",
+        "summary": "I am characterized by my dynamism, proactivity, and strong commitment to teamwork. I am a versatile person, capable of multitasking and making decisions with confidence."
+    },
+    "experience": {
+        "title": "Professional Experience",
+        "summary": "I have worked on various projects ranging from website development to interactive applications, utilizing modern technologies to ensure an optimal user experience.",
+        "tabTitle": "Front-End Developer",
+        "list1": "Layout and front-end web development using PHP, JavaScript, HTML, and CSS.",
+        "list2": "Adapting Figma/PSD designs into functional code.",
+        "list3": "Performance optimization and load speed enhancement.",
+        "list4": "Use of preprocessors like SASS and tools like Webpack/Gulp."
+    },
+    "projects": {
+        "title": "Projects",
+        "summary": "Here you can see some of the projects I have worked on, showcasing my skills in web development and design."
+    },
+    "footer": {
+        "title": "Contact Me"
+    },
+    "button": {
+        "linkedin": "LinkedIn"
+    }
+}

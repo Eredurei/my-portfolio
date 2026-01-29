@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --color-BgColor: #0D0D0D;
+  --color-primaryColor: #F2EDE9;
+  --color-secondaryColor: #BFBAB8;
+  --color-thirdColor: #595756;
+
+  --font-PirataOne: 'Pirata One';
+  --font-Montserrat: 'Montserrat';
+}
+
+
+/* Fonts */
+@font-face {
+  font-family: Pirata One;
+  font-style: normal;
+  font-weight: 400;
+  src: url(./assets/fonts/Pirata_One/PirataOne-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 200 700;
+  src: url(./assets/fonts/Montserrat/Montserrat-VariableFont_wght.ttf) format("truetype");
+}
+
+@keyframes beeFly1 {
+  0% { transform: translate(0, 0) rotate(0deg); }
+  50% { transform: translate(20px, -20px) rotate(20deg); }
+  100% { transform: translate(0, 0) rotate(0deg); }
+}
+
+@theme {
+  --breakpoint-3xl: 2048px;
+}
+
+html {
+  @apply scroll-smooth;
+  @apply font-Montserrat;
+}
+
+body {
+  @apply bg-BgColor;
+}
+
+h1 {
+  @apply font-PirataOne;
+}
+
+h2 {
+  @apply font-PirataOne;
+  @apply text-3xl;
+}

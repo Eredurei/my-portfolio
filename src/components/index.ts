@@ -1,0 +1,9 @@
+export { Header } from "./header";
+export { Topcontent } from "./top-content";
+export { IntroContent } from "./intro-content";
+export { Button } from "./button";
+export { AboutMe } from "./about-me";
+export { Experience } from "./experience";
+export { Stack } from "./stack";
+export { Projects } from "./projects";
+export { Footer } from "./footer";
