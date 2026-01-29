@@ -12,7 +12,7 @@ export const Experience = () => {
             transition={{ duration: 1, ease: "easeInOut" }}
             viewport={{once: true, amount: 0.3}}
         >
-            <div className="max-w-[900px] m-auto text-left pb-10 border-b border-primaryColor lg:px-15">
+            <div className="max-w-[900px]  m-auto text-left pb-10 border-b border-primaryColor lg:px-15">
                 <h2>{t("experience.title")}</h2>
                 <p className="mt-2">{t("experience.summary")}</p>
                 <div className="tab mt-5 bg-secondaryColor p-5 rounded-md text-BgColor font-bold">
